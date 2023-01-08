@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://gmurro.github.io/sitemap.xml

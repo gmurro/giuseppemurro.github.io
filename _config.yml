@@ -1,0 +1,91 @@
+### Site Settings ###
+title: Giuseppe Murro
+description: >-
+  Any fool 🤪 can write code that a computer can understand. 
+  Good programmers 🧑‍💻 write code that humans can understand.
+baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository: gmurro/gmurro.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme: YoussefRaafatNasry/portfolYOU
+open_new_tab: true # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+### Plugins ###
+plugins:
+  - jemoji
+
+### Navbar Settings ###
+nav_exclude: # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+### Author Info ###
+author:
+  name: Giuseppe Murro
+  image: /assets/myself.jpg
+  # behance           : your_username
+  # dribbble          : your_username
+  email: g.murro23@gmail.com
+  facebook: giuseppemurro6
+  github: gmurro
+  gitlab: gmurro
+  instagram: giuseppemurro
+  # kaggle            : your_username
+  linkedin: giuseppemurro
+  medium: gmurro
+  # soundcloud        : your_username
+  # spotify           : your_username
+  # stackoverflow       : 14789272
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  twitter: giuseppemurro_
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+### Posts ###
+permalink: /blog/:title
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus # Your website Shortname on disqus
+
+### Analytics ###
+analytics:
+  enabled: false # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: true
+  username: gmurro
+  color: "#007bff"
+  message: "Thank you for visiting." # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
