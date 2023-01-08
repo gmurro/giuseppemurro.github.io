@@ -1,0 +1,71 @@
+- title: Master's degree in AI @ UNIBO
+  from: September 2020
+  to: December 2022
+  grade: 110/110 with honours
+  thesis: "SynBA : A contextualized Synonym-Based adversarial Attack for text classification"
+  focus:
+    - Statistical, logical and mathematical foundations of AI
+    - Machine Learning, Deep Learning and big data applications
+    - Knowledge Representation and declarative/functional programming
+    - Computer Vision and Natural Language Processing
+  technologies:
+    - Python
+    - SKLearn/PyTorch/Keras
+    - Prolog
+    - Scala
+    - Spark
+    - MiniZinc
+
+- title: AlmaEnglish B2 @ UNIBO
+  from: February 2022
+  to: June 2022
+  focus:
+    - 40 hours of face-to-face teaching
+    - Overall IELTS Band Score 6.5 (CEFR Level B2)
+
+- title: Erasmus+ Mobility @ VU Amsterdam
+  from: August 2021
+  to: February 2022
+  focus:
+    - Reinforcement Learning
+    - Evolutionary Computing
+    - Software Containerization
+  technologies:
+    - Python
+    - NEAT
+    - PyGame
+    - Kubernetes
+    - Docker
+
+- title: Bachelor's degree in CS @ UNIBA
+  from: September 2017
+  to: July 2020
+  grade: 110/110 with honours
+  thesis: Design, development and integration ofa crowd detection software module in a RPAS
+  focus:
+    - Mathematical and logical foundations of computer science
+    - Advanced programming techniques and software design principles
+    - Integration and Test for Software Systems
+    - Development of Mobile Software
+  technologies:
+    - C
+    - Java
+    - MySQL
+    - Python
+
+- title: High-school diploma in ICT @ ITIS "LUIGI DELL'ERBA", CASTELLANA GROTTE
+  from: September 2012
+  to: July 2017
+  grade: 100 / 100
+  focus:
+    - Network systems
+    - Computer architectures
+    - Programming basics
+  technologies:
+    - C
+    - Java
+    - PHP
+    - MySQL
+    - Javascript
+    - HTML
+    - CSS

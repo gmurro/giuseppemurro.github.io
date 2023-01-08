@@ -1,0 +1,23 @@
+- name: PyTorch
+  percentage: 65
+  color: warning
+
+- name: NumPy
+  percentage: 95
+  color: success
+
+- name: Pandas
+  percentage: 95
+  color: success
+
+- name: OpenCV
+  percentage: 55
+  color: warning
+
+- name: Tensorflow/Keras
+  percentage: 90
+  color: success
+
+- name: Spark
+  percentage: 40
+  color: danger

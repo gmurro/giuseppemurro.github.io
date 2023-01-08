@@ -1,0 +1,23 @@
+- name: Git
+  percentage: 95
+  color: success
+
+- name: Linux
+  percentage: 90
+  color: success
+
+- name: Docker
+  percentage: 90
+  color: success
+
+- name: Kubernetes
+  percentage: 95
+  color: success
+
+- name: Google Cloud
+  percentage: 75
+  color: success
+
+- name: LaTeX
+  percentage: 70
+  color: warning

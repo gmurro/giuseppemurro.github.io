@@ -1,0 +1,45 @@
+- title: Treatwell
+  position: Junior Data Scientist · Full-time
+  project: Member of the Machine Learning team applying Artificial Intelligence solutions for advanced features on the Treatwell app.
+  from: January 2023
+  to: Present
+  technologies:
+    - PyTorch Lightning
+    - Docker
+    - Kubernetes
+    - FastAPI
+    - SQL
+
+- title: 3rdplace - Datrix SpA
+  position: Data Science intern · Curricular Internship
+  from: June 2022
+  to: October 2022
+  project: Research and development of an Adversarial Machine Learning solution applied in the NLP field
+  achievement: Worked in a stimulating environment, with a lot of freedom and responsibility. The job was part of the CybersecH project promoted by Italian Government and the final results was presented at the AI4FUTURE conference in Viterbo (RM).
+  technologies:
+    - Python
+    - Tensorflow
+    - PyTorch
+    - Docker
+    - Vue.js
+    - FastAPI
+
+- title: CILAB - University of Bari "Aldo Moro"
+  position: Technical/scientific consultant · Part-time
+  from: September 2020
+  to: December 2020
+  project: Development and integration of software modules for the RPASInAir research project co-funded by the European Union, under the supervision of the CILab laboratory.
+  achievement: Practical experience in cooperation with different research groups and companies involved in the project. 
+  technologies:
+    - Python
+    - C++
+    - NNG
+    - CMake
+    - Tensorflow
+    - YoloV3
+
+- title: Student Administration Office - University of Bari "Aldo Moro"
+  position: Clerk · 150 hours part-time
+  from: September 2019
+  to: November 2019
+  achievement: I have been selected to make 150 hours of collaboration at the University structures satisfying the merit requirements of the call. Involed in administration office activities.

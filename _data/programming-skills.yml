@@ -1,11 +1,20 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
-
 - name: Python
-  percentage: 70
-  color: secondary
+  percentage: 95
+  color: success
+
+- name: Java
+  percentage: 80
+  color: success
+
+- name: Prolog/MiniZinc
+  percentage: 60
+  color: warning
+
+- name: C/C++
+  percentage: 55
+  color: warning
+
+- name: Scala
+  percentage: 50
+  color: warning
+

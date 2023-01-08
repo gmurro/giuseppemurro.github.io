@@ -5,8 +5,9 @@ permalink: /experience/
 weight: 4
 ---
 
-# **Experience**
-
 <div class="row">
-{% include about/timeline.html %}
+{% include experience/timeline-education.html title="Education" source=site.data.education-timeline %}
+</div>
+<div class="row">
+{% include experience/timeline-experience.html title="Experience" source=site.data.experience-timeline %}
 </div>

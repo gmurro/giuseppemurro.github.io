@@ -1,0 +1,15 @@
+- name: Vue.js
+  percentage: 50
+  color: danger
+
+- name: FastAPI/Flask
+  percentage: 80
+  color: success
+
+- name: HTML/CSS/JS/jQuery
+  percentage: 70
+  color: warning
+
+- name: MySQL/PostgreSQL/MongoDB
+  percentage: 80
+  color: success
