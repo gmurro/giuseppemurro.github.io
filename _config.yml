@@ -1,8 +1,7 @@
 ### Site Settings ###
 title: Giuseppe Murro
 description: >-
-  Any fool 🤪 can write code that a computer can understand. 
-  Good programmers 🧑‍💻 write code that humans can understand.
+  Another geek 🧑‍💻 trying to figure out how to gain insights from data 🔍, while you constantly ask to fix your WiFi connection 📶.
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: gmurro/gmurro.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: YoussefRaafatNasry/portfolYOU
